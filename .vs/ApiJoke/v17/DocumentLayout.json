@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brokken\\source\\repos\\ApiJoke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E7DEDF-55C8-4189-A32F-3099CB374E23}|ApiJoke\\ApiJoke.csproj|c:\\users\\brokken\\source\\repos\\apijoke\\apijoke\\controllers\\jokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E7DEDF-55C8-4189-A32F-3099CB374E23}|ApiJoke\\ApiJoke.csproj|solutionrelative:apijoke\\controllers\\jokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E7DEDF-55C8-4189-A32F-3099CB374E23}|ApiJoke\\ApiJoke.csproj|c:\\users\\brokken\\source\\repos\\apijoke\\apijoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E7DEDF-55C8-4189-A32F-3099CB374E23}|ApiJoke\\ApiJoke.csproj|solutionrelative:apijoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brokken\\source\\repos\\ApiJoke\\ApiJoke\\Program.cs",
+              "RelativeDocumentMoniker": "ApiJoke\\Program.cs",
+              "ToolTip": "C:\\Users\\brokken\\source\\repos\\ApiJoke\\ApiJoke\\Program.cs",
+              "RelativeToolTip": "ApiJoke\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:18:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JokeController.cs",
+              "DocumentMoniker": "C:\\Users\\brokken\\source\\repos\\ApiJoke\\ApiJoke\\Controllers\\JokeController.cs",
+              "RelativeDocumentMoniker": "ApiJoke\\Controllers\\JokeController.cs",
+              "ToolTip": "C:\\Users\\brokken\\source\\repos\\ApiJoke\\ApiJoke\\Controllers\\JokeController.cs",
+              "RelativeToolTip": "ApiJoke\\Controllers\\JokeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:18:37.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

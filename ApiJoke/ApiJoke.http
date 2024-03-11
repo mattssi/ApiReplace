@@ -1,0 +1,6 @@
+@ApiJoke_HostAddress = http://localhost:5108
+
+GET {{ApiJoke_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
